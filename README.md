@@ -56,8 +56,7 @@
 
 <h3>Mobile</h3>
   <p align="center">
-    <img src="https://github.com/tgmarinho/Ecoleta/blob/master/assets/home-mobile.png?raw=true" alt="Dev Radar Mobile Screen 1" />
-    <img src="https://raw.githubusercontent.com/tgmarinho/Ecoleta/65fa69a3e1fe1c02008fcee6efc34ebe2cf5a1da/assets/detalhes-mobile.svg" alt="Ecoleta Mobile Screen 2" />
+    <img src="./assets/home-dev-radar.jpeg" alt="Dev Radar Home" height=600 />
   </p></br>
   
   

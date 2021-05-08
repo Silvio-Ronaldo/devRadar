@@ -133,7 +133,7 @@
     <p><code>yarn install</code> or <code>yarn</code></p>
   </li>
   <li>Start the mobile development server:
-    <p><code>yarn start</code></p>
+    <p><code>yarn android</code> or <code>yarn ios</code> according to your emulator / device</p>
   </li>
   <li>After these steps, the mobile application must start on your emulator or on your device, according to your choice.</li>
 </ol></br>
